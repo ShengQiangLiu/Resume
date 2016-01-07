@@ -1,2 +1,2 @@
 # Resume
-my resume
+[resume](/resume-builder/resume/index.html)
