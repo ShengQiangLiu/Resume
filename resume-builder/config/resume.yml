@@ -1,0 +1,117 @@
+basic:
+  name: 游族网络
+  designation: iOS研发工程师
+  age: 23
+  gender: 男
+  email: liusq1993@foxmail.com
+  phone: +86 15802561245
+  website: http://github.com
+online_handles:
+  weibo: http://weibo.com/u/3661952977/home?leftnav=1
+  github: https://github.com/shengQiangLiu
+  weixin: 
+self_evaluation:
+  contents:
+    - 一个聪明，敏锐，开放，富有激情的移动互联网开发者。
+skills:
+  - title: Programming
+    contents:
+      - 掌握使用Objective-C进行iOS开发，熟悉C/Swift
+      - 熟悉 HTML/HTML5/CSS/Javascript，能写简单的网页，熟练OC/JS交互
+      - 了解 PHP，能搭建LAMP环境，写一些简单的App接口
+  - title: 'Frameworks & Technologies'
+    contents:
+      - 熟悉iOS基础框架的使用
+      - 熟悉使用Xib/AutoLayout、代码布局
+      - 熟练掌握json、xml、html数据解析，html有解析Code4App首页，源项目在github上面
+      - 熟悉常用的数据存储方式
+      - 熟悉iOS网络编程，熟悉socket、websocket，了解XMPP，有实现简单的XMPP聊天，源项目在github上面
+      - 了解runtime，runloop等的使用
+      - 熟悉PhoneGap框架，启扉校园就是使用的该框架
+work_experience:
+  - company: 游族网络
+    time_span: 2014/06 - 2015/05
+    designation: iOS研发工程师
+    website: http://www.youzu.com/
+    summary: 开发新项目；维护和熟悉已有项目。
+    responsibilities:
+      - 了解原有项目架构和业务逻辑
+      - 代码维护以及开发新需求和新项目
+      - 更新Code4App开源框架 😊
+  - company: 长沙好莱信息科技有限公司
+    time_span: 2014/06 - 2015/05
+    designation: iOS研发工程师
+    website: http://26a143898.atobo.com.cn/
+    summary: 开发新项目；对产品进行迭代开发。
+    responsibilities:
+      - 负责iOS应用项目的开发, 与市场、UI设计人员沟通获取项目需求资源，按照项目计划高质量的完成开发以及Bug的修复。
+      - 独立负责公司iOS产品的所有开发以及维护工作, 研究解决开发中使用的新技术与困难点。
+      - 负责产品的上线与发布，技术攻关。 😊
+projects:
+  - name: 应用排行榜
+    role: Developer 
+    time_span: 2015/7 - 至今
+    website: 
+    summary: 展示AppStore应用的排行。
+    bullet_points:
+      - 用代码布局搭建所有的UI界面
+      - 使用CoreData做数据存储
+      - 封装基于AFNetworking框架的网络请求管理类
+      - 自定义过渡动画等
+
+  - name: 绮妆妈咪
+    role: Developer 
+    time_span: 2014/12 - 2015/05
+    website: 
+    summary: 类似大姨妈、爱宝贝的项目，包含日历，商场，积分，支付，聊天等功能。
+    bullet_points:
+      - Xib/AutoLayout 所有的UI界面
+      - 封装基于AFNetworking框架的网络请求管理类
+      - 采用FMDB、NSUserdefault的数据持久化
+      - 使用SDWebImage做异步加载和缓存图片
+      - 使用KeyChain开源框架对账户等敏感信息进行加密存储
+      - 采用了支付宝、ShareSDK分享等第三方接口
+      - 定位和地图均采用系统自带定位和地图
+
+  - name: 启扉校园
+    role: Developer
+    time_span: 2014/06 - 2015/03
+    website:
+    summary: 软件集合全国各大高校基本信息形成联盟。针对客户群体（各高校在校及毕业生）。
+    bullet_points:
+      - 基于PhoneGap框架开发
+      - 使用SDWebImage做异步加载和缓存图片
+      - 采用了ShareSDK分享等第三方接口
+      - 定位和地图采用的高德的地图
+
+  - name: 签单保
+    role: Developer 
+    time_span: 2015/03 - 2015/05
+    website: 
+    summary: 主要用于公司的业务业务员跑业务使用的
+    bullet_points:
+      - Xib/AutoLayout 搭建所有的UI界面
+      - 类似QQ的侧滑菜单
+      - 使用KeyChain开源框架对账户等敏感信息进行加密存储
+      - 定位采用系统自带定位
+
+  - name: Code4App-V1
+    role: Developer 
+    time_span: 2015/11
+    website: 
+    summary: github上面开源项目
+    bullet_points:
+      - 解析Code4App首页用作数据
+      - XMPP作为简单的聊天
+      - 简单使用了Facebook的ASDK框架
+      - 后台是在Ubuntu上面搭建的openfire
+
+education:
+  - institution: 湖南科技学院，永州
+    course: 电子科学与技术－本科
+
+interests:
+  - 移动开发
+  - 阅读
+  - 电影
+  - 打篮球
