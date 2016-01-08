@@ -26,6 +26,7 @@ skills:
       - 熟练掌握json、xml、html数据解析，html有解析Code4App首页，源项目在github上面
       - 熟悉常用的数据存储方式
       - 熟悉iOS网络编程，熟悉socket、websocket，了解XMPP，有实现简单的XMPP聊天，源项目在github上面
+      - 熟悉iOS多线程编程，熟悉常用第三方网络框架原理
       - 了解runtime，runloop等的使用
       - 熟悉PhoneGap框架，启扉校园就是使用的该框架
 work_experience:
