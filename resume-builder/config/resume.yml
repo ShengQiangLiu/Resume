@@ -1,5 +1,5 @@
 basic:
-  name: 游族网络
+  name: 刘胜强
   designation: iOS研发工程师
   age: 23
   gender: 男
@@ -7,9 +7,9 @@ basic:
   phone: +86 15802561245
   website: http://github.com
 online_handles:
-  weibo: http://weibo.com/u/3661952977/home?leftnav=1
-  github: https://github.com/shengQiangLiu
-  weixin: 
+  weibo: http://weibo.com
+  github: https://github.com
+  weixin: 两年iOS工作经验
 self_evaluation:
   contents:
     - 一个聪明，敏锐，开放，富有激情的移动互联网开发者。
@@ -110,6 +110,7 @@ projects:
 education:
   - institution: 湖南科技学院，永州
     course: 电子科学与技术－本科
+    time_span: 2009/09 - 2013/06
 
 interests:
   - 移动开发
